@@ -1,2 +1,6 @@
 lajnoa
+<<<<<<< HEAD
 jalk
+=======
+kahsdi
+>>>>>>> f2
